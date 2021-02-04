@@ -12,7 +12,7 @@ app.get('/api/hello', (req, res) => {
 
 app.get('/api/merhaba', (req, res) => {
 
-    res.send('Merhaba Mustafa')
+    res.send('Merhaba Mustafa Temel')
 })
 
 app.post('/api/name', (req, res) => {
